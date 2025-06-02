@@ -27,3 +27,5 @@ A simple and interactive command-line calculator built with Python. This program
 `python calculator.py`
 
 • Follow the on-screen prompts
+
+---
